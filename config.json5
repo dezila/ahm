@@ -32,7 +32,7 @@
     "relist": true,
 
     //Pings you when TPM updates (webhook required)
-    "pingOnUpdate": false,
+    "pingOnUpdate": true,
 
     //Delay between actions. For example, opening flips
     "delay": 100,
